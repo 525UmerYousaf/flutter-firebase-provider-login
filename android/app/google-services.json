@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239262056300",
+    "project_id": "flutterstatelearn",
+    "storage_bucket": "flutterstatelearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239262056300:android:627f1acdee7f36e3547d49",
+        "android_client_info": {
+          "package_name": "com.example.user_login_state"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239262056300-e59h8h27uq6oncgd710apc5hg31n8ulo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pVdU-HnC_w8Y4um_uCZBsfcX2IRwGiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239262056300-e59h8h27uq6oncgd710apc5hg31n8ulo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
